@@ -1,0 +1,130 @@
+{
+    "Header": {
+
+        "title": "We are Sillicon Tech",
+        "paragraph": "Your technology partner for innovative and impactful digital solutions"
+
+    },
+    "About": {
+        "paragraph": "We proactively consult, design, develop & scale robust web, mobile & custom software solutions, that fuel innovation & deliver digital success.",
+        "Why": [
+            "Ai Systems",
+            "Mobile Applications",
+            "Enterprise Solutions",
+            "Block Chain Developing"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-clipboard",
+            "name": "Professional Counsultation",
+            "text": "We provide professional IT consultation to your business"
+        },
+        {
+            "icon": "fa fa-bookmark",
+            "name": "Enterprise Mobility",
+            "text": "Infallible and custom Enterprise Mobility solution to mange the business."
+        },
+        {
+            "icon": "fa fa-cloud",
+            "name": "Cloud Service",
+            "text": "We provide Maximum cloud service with high security."
+        },
+        {
+            "icon": "fa fa-flag",
+            "name": "App Security",
+            "text": "Monitor and manage potential threats during the development and deliver secure solutions."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Device Management",
+            "text": "Ensure the safety of critical business infromation and mange any employment device accessing"
+        },
+        {
+            "icon": "fa fa-user",
+            "name": "Mobile workforce solution",
+            "text": "With custom enterprise workforce solution your enterprise become even better than before."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Sillion Tech provided great service to my business and it detour my business to highend.\"",
+            "name": "Jonathan Mike"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"I was looking for great security to my business,Sillicon tech grants their best facilities to ensure the security.\"",
+            "name": "David An"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Sillicon tech provide great IT solution to my start up business.Highly recommend their service.\"",
+            "name": "Micheal Jhonson"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"I was requested Sillicon tech cloud services to secure my data, they provided best security option and access.\"",
+            "name": "Johnathan Doe" 
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Sillicon tech improve capability of my business to market by creating best software prodcution with modern features.\"",
+            "name": "Clara Whitney"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"It really transcend everything we expected.Provide good solution to my industry.Their service is outstanding!.\"",
+            "name": "Penny Cooper"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "CEO"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Jane White",
+            "job": "Vice president"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Karen John ",
+            "job": "Teach Lead"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Lilly williams",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "Mountain View, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@sillicontech.com",
+        "facebook": "fb.com/sillicontech",
+        "twitter": "twitter.com/sillicontech",
+        "youtube": "youtube.com/sillicontech"
+    },
+    "Features": [{
+            "icon": "fa fa-apple",
+            "title": "IOS",
+            "text": "Creating softwares for Apple devices with the standard."
+        },
+        {
+            "icon": "fa fa-windows",
+            "title": "Windwos",
+            "text": "Creating Databases and softwares for Windows Devices."
+        },
+        {
+            "icon": "fa fa-linux",
+            "title": "Linux",
+            "text": "Deploying high security features with linux."
+        },
+        {
+            "icon": "fa fa-android",
+            "title": "Mobile Application",
+            "text": "Creating Andriod base software for industires"
+        }
+    ]
+}
